@@ -12,18 +12,18 @@
 
 ---
 ### Jira and confluence
-* Jira is project management system
+- Jira is project management system
 
-1. manage roadmap 
-1. manage tasks
-1. generate the report 
-1. predict the process of the project
+ - manage roadmap 
+ - manage tasks
+ - generate the report 
+ - predict the process of the project
 
-* Confluence is the wiki working as KB
+- Confluence is the wiki working as KB
 
-1. KB
-1. Notes
-1. Interact with Jira
+ - KB
+ - Notes
+ - Interact with Jira
 
 ---
 ### Work with roadmap
