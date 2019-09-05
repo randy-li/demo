@@ -1,7 +1,7 @@
 ## ThunderCore
 
 ---
-## Agenda
+### Agenda
 - Jira and confluence
 - Work with roadmap
 - Work with backlog
